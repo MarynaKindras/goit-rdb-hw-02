@@ -75,8 +75,12 @@
 
 ![Results](./images/01-eer-diagram.png)
 
-![Results](./images/02.1-sql-script.png) (./images/02.2-sql-script.png)
+![Results](./images/02.1-sql-script.png)
+
+![Results](./images/02.2-sql-script.png)
 
 ![Results](./images/03-schemas.png)
 
 ![Results](./images/04-normalized-tables.png)
+
+
